@@ -35,4 +35,3 @@ def ask_tax_question(question: str) -> str:
 
 if __name__ == "__main__":
     mcp.run(transport = "stdio")
-
